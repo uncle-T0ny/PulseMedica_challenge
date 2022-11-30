@@ -1,0 +1,13 @@
+{
+  "resourceName": "requestsS3",
+  "policyUUID": "a73524f7",
+  "bucketName": "pulsemedicachallenge13b16cbe875d4c7c82373fe1d64",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

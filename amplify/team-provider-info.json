@@ -1,0 +1,34 @@
+{
+  "stage": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pulsemedicachallenge-stage-155207-authRole",
+      "UnauthRoleArn": "arn:aws:iam::417873687559:role/amplify-pulsemedicachallenge-stage-155207-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::417873687559:role/amplify-pulsemedicachallenge-stage-155207-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-pulsemedicachallenge-stage-155207-deployment",
+      "UnauthRoleName": "amplify-pulsemedicachallenge-stage-155207-unauthRole",
+      "StackName": "amplify-pulsemedicachallenge-stage-155207",
+      "StackId": "arn:aws:cloudformation:ca-central-1:417873687559:stack/amplify-pulsemedicachallenge-stage-155207/b0cb6ab0-7027-11ed-a173-060b9578e2be",
+      "AmplifyAppId": "d2qoel4savgbr3",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-pulsemedicachallenge-stage-155207-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "function": {
+        "pulsemedicachallenge42c87add": {
+          "deploymentBucketName": "amplify-pulsemedicachallenge-stage-155207-deployment",
+          "s3Key": "amplify-builds/pulsemedicachallenge42c87add-2f395948696454635269-build.zip"
+        }
+      },
+      "auth": {
+        "pulsemedicachallenge": {}
+      },
+      "storage": {
+        "requests": {},
+        "requestsS3": {}
+      },
+      "api": {
+        "apistage": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "resourceName": "frontent",
+  "policyUUID": "5e7ff3ba",
+  "bucketName": "uload-images-sample",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "groupAccess": {},
+  "triggerFunction": "S3Trigger16ab83d7"
+}
