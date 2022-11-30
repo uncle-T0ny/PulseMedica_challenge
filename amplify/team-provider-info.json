@@ -28,6 +28,9 @@
       },
       "api": {
         "apistage": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
       }
     }
   }
